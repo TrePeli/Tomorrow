@@ -1,9 +1,9 @@
 # Tomorrow
 >This is the official GitHub repository of the Visit Tampere3 Game, which we, Team TrePeli, have lovingly named Tomorrow.
 
-We are looking for amateur and professional developers alike to [help us create](#contribute) an augmented reality game for the enjoyment and exploration of the Tampere3 University Community.
+We are looking for amateur and professional developers alike to [help us create](#contribute) an augmented reality location-based game for the enjoyment and exploration of the Tampere3 University Community.
 
-![AugmentedRealityRocks][image1]
+![AugmentedRealityRocks](image)
 
 ## Overview of the Game
 [Game description here (3-4 sentences).]
@@ -11,11 +11,11 @@ We are looking for amateur and professional developers alike to [help us create]
 [Images]
 
 **You can [contribute](#contribute) by:**
--	Designing [game assets](#Game assets) or [UI elements](#UI elements)
--	Improving [user experience](#User Experience) or [game logic](#Game Logic)
--	Coding the [game mechanics](#Game Mechanics)
--	Working with the game's [database](#Database)
--	Setting up a new [deployment platform](#Deployment)
+-	Designing [game assets](#game-assets) or [UI elements](#ui-elements)
+-	Improving [user experience](#user-experience) or [game logic](#game-Logic)
+-	Coding the [game mechanics](#game-mechanics)
+-	Working with the game's [database](#database)
+-	Setting up a new [deployment](#deployment) platform
 -	Submitting ideas and feature improvements in [issues](#issues)
 -	Fixing existing [issues](#issues)
 -	Working on the [webpage](http://) and promotion
@@ -95,7 +95,6 @@ GitHub cards and [issues](#issues) system usage overview.
 -	Create an issue card
 - Don't be afraid to ask the community!
 - Contact:
-
 
 
 <!-- Images -->
